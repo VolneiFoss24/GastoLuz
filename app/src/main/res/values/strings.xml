@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gasto Luz</string>
+    <string name="watss">Watss</string>
+    <string name="watts">Watts</string>
+    <string name="tempo">Tempo</string>
+    <string name="tarifa">Tarifa</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="o_seu_gasto_de_energia_sera">O seu gasto de energia será:</string>
+    <string name="rs_0">R$ 0</string>
+    <string name="preencher_campos">Preencher todos os campos.</string>
+
+</resources>
